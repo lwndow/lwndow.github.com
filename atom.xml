@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Trust me, I'm a genius?]]></title>
   <link href="http://lwndow.github.com/atom.xml" rel="self"/>
   <link href="http://lwndow.github.com/"/>
-  <updated>2012-10-19T11:25:04-04:00</updated>
+  <updated>2012-10-19T11:46:45-04:00</updated>
   <id>http://lwndow.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mitch Lewandowski]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
